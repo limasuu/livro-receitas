@@ -4,4 +4,3 @@
  
   - Panqueca
   - Suco de abacaxi com coco
-  - Bolinho de aipim
